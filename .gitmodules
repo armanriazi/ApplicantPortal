@@ -1,0 +1,9 @@
+[submodule "ApplicantGQL"]
+	path = ApplicantGQL
+	url = https://github.com/armanriazi/ApplicantGQL.git
+[submodule "ApplicantAngular"]
+	path = ApplicantAngular
+	url = https://github.com/armanriazi/ApplicantAngular.git
+[submodule "ApplicantApi"]
+	path = ApplicantApi
+	url = https://github.com/armanriazi/ApplicantApi.git
